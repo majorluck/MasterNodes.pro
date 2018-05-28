@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="c2698d52-350b-4a7d-8ce3-f0fd5712d749" name="coinsmn.com" url="http://160.153.196.212">
-        <fileTransfer host="160.153.196.212" port="22" privateKey="H:\personalsshopen.pem" rootFolder="/var/www/coinsmn.com" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-    </option>
-  </component>
-</project>
+
